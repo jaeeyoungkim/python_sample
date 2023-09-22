@@ -6,3 +6,4 @@ logs
 paramkey.txt
 *.log
 __pycache__/
+venv
